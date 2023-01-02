@@ -84,7 +84,7 @@ class ProductDetails extends StatelessWidget {
               LeaveReviewAction(productId: product.id),
               const Divider(),
               gapH8,
-              AddToCartWidget(product: product), 
+              AddToCartWidget(product: product),
             ],
           ),
         ),
